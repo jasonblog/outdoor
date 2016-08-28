@@ -19,6 +19,12 @@ http://www.eastbay.com/
 
 http://www.basegear.com/
 
+---
+- 登山者豪哥
+http://haolite.blogspot.tw/
+
+- KNOX ▲ LIVE WILD
+http://knoxyang.blogspot.tw/
 
 ---
 
