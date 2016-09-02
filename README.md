@@ -19,6 +19,8 @@ http://www.eastbay.com/
 
 http://www.basegear.com/
 
+http://www.6pm.com/
+
 ---
 - 登山者豪哥
 http://haolite.blogspot.tw/
