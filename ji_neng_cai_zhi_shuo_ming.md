@@ -2,8 +2,13 @@
 
 ##GORE-TEX® PRO SHELL 
 
+![](./images/logo_proshell.gif)
+
+
 由特選最耐磨、最透氣、持久防水及防風的布料製造，專為應付持續惡劣天氣狀況而設計，最能滿足專業及熱愛戶外活動的人士所需。
 
+
+![](./images/proshell.jpg)
 優點
 
 最能滿足專業及熱愛戶外活動的人士所需。
