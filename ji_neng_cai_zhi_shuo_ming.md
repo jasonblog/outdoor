@@ -37,6 +37,9 @@ performance shell只需一件衣服，便可進行多項活動。
 
 優點
 
+
+![](./images/performanceshell.jpg)
+
 - 提供舒適的透氣功能和持久的防水保護。
 - 最適宜進行各式各樣的戶外活動。
 - 備有兩層及三層布料結構以供選擇。兩層布料質地柔軟，活動時不會發出噪音。三層布料加強了耐磨的特性。
@@ -51,9 +54,15 @@ performance shell只需一件衣服，便可進行多項活動。
 
 ##paclite
 
+
+![](./images/logo_paclite.gif)
+
 paclite適合遠足、騎單車、跑步及其他需要減輕背包重量及空間的活動。GORE-TEX® PACLITE® SHELL 極度透氣、持久防水及防風，輕巧及易於攜帶。
 
 優點
+
+
+![](./images/paclite.jpg)
 
 - 採用薄膜保護層，無須另加內裡。
 - 持久防水，極度透氣。
