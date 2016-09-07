@@ -147,6 +147,11 @@ Power Dry 能抗紫外線，UPF 15 BLOCKS 93% OF UV
 
 ## Polartec Classic
 
+![](./images/class_logo.jpg)
+
+
+![](./images/class_1mb_rev.jpg)
+
 美國Malden Mills公司推出的材料。Polartec比一般的刷毛衣要輕、軟、暖和，而且不掉絨。 它不但乾的比較快，而且伸縮性也不錯。
 
 Polartec Classic 100&200是一種輕、保暖又透氣的材質。它提供優良無比的品質及耐久性。近三十年來，戶外活動熱愛者總是以Polartec Classic 為保暖層的不二選擇。 迄今為止是戶外市場上最受歡迎的刷毛產品。
