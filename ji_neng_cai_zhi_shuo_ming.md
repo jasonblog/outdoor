@@ -79,6 +79,12 @@ paclite適合遠足、騎單車、跑步及其他需要減輕背包重量及空�
 
 ## WINDSTOPPER也是Gore公司的一大產品。
 
+
+![](./images/logo_windstopper.gif)
+
+![](./images/WS_pic1.jpg)
+
+
 WINDSTOPPER薄膜重量極輕，卻不會減低所貼合布料之透氣性。
 
 當冷風穿透衣服時，它會停留在衣服內，WINDSTOPPER產品具有絕佳的防風功能，可防止這種寒冷的感覺。 在風速10mph狀況下，測試相同重量絨毛布料，WINDSTOPPER絨毛織物，增加有效衣服舒適範圍達華氏十度以上。
