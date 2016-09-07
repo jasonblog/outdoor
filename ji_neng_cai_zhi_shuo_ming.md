@@ -29,6 +29,8 @@ GORE-TEX® PRO SHELL 的服裝
 
 ##performance shell
 
+![](./images/logo_perfermanceshell.gif)
+
 performance shell只需一件衣服，便可進行多項活動。
 
 當您進行滑雪、騎單車、攀山、溜冰或散步等活動時，只要穿著 GORE-TEX® Performance Shell 的服裝，您大可隨意轉換其他活動，而不需要更換您原有的衣服。
