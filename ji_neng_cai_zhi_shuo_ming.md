@@ -100,6 +100,9 @@ WINDSTOPPER被評定為『極透氣』織物產品，其優點是能使服裝，
 
 ![](./images/powerdry_logo.jpg)
 
+![](./images/pdry_1mb_rev.jpg)
+
+
 powerdry Polartec Power Dry®材質為100%
 聚酯纖維，具有高透氣性，很適合設計成排汗內衣，適合各種運動。
 Power Dry 是超強快乾布料擁有專利設計的bi-component結構設計，更有獨特的雙重構造；柔軟的內層接觸感非常舒適，而且可以快速吸收體表汗水，藉由排汗功能，將水氣散發出去，本布料特別適合台灣潮濕炎熱的氣候，它可以讓你輕鬆自在，隨時隨地保持乾爽、舒適。
