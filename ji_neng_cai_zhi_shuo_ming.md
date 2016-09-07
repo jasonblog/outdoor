@@ -129,6 +129,11 @@ Power Dry 能抗紫外線，UPF 15 BLOCKS 93% OF UV
 
 ## Power Stretch
 
+![](./images/powerstretch.gif)
+
+![](./images/ps.gif)
+
+
 美商Malden Mills公司出品，Power Stretch®是針對激烈運動需求，而研發設計的機能性材質。在您運動時，它能提供身體全方向的包覆性，同時又具有四方延伸特點與傑出的透氣性。它獨特的篩孔3D結構，更能穩定的將暖空氣保留在氣孔中，更針對高濕度的狀況提供了調溫效果，而讓肌膚維持乾爽與舒適。Power Stertch
 
 特點:
