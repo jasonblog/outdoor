@@ -195,6 +195,10 @@ Polartec系列不但提供輕量且超優異的保暖性，並透氣、耐穿且
 
 ## Polartec Windbloc
 
+![](./images/windbloc_lodo.jpg)
+
+![](./images/wbloc_1mb_rev.jpg)
+
 
 美國Malden Mills公司推出的防風材料。Polartec迄今為止是戶外市場上最受歡迎的刷毛布料。 
 windbloc Windbloc 是一種薄膜，採用Windbloc做的衣服保暖性很好，而且百分之百防風。
