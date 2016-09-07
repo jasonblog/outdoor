@@ -177,6 +177,11 @@ Polartec系列不但提供輕量且超優異的保暖性，並透氣、耐穿且
 
 
 ## Polartec Thermal Pro
+
+![](./images/thermalpro_logo.jpg)
+
+![](./images/thermp_1mb_rev.jpg)
+
 美國Malden Mills公司推出的材料。Polartec比一般的刷毛衣要輕、軟、暖和，而且不掉絨。 它不但乾的比較快，而且伸縮性也不錯。 Polartec Thermal Pro是Polartec進階的保暖材質，可應用在各種不同的布料上，最新的Polartec Thermal Pro纖維它提供優良無比的品質及耐久性。 這100%聚酯纖維的絲絨許多空氣氣渦，因此可以抓住暖空氣並保持身體的溫暖。跟一般便宜的刷毛材質不同的是，Polartec比較輕且較保暖，濕了也較容易乾，並且在多次洗滌後仍然能維持本身的保暖度也不易起毛球。
 
 特點:
