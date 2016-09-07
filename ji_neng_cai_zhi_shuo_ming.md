@@ -222,6 +222,12 @@ Windbloc材質非常的耐穿，穿著時不會有磨擦的噪音，不起毛球
 
 ## Power Shield
 
+![](./images/powershield.gif)
+
+![](./images/powershield_pic.gif)
+
+
+
 Power Shield®是由Malden Mill公司生產的系列Polartec®布料。Power Shield®具有耐磨、彈性、防風、潑水、保暖的功能，所以常拿來使用在Soft Shell。
 
 Power Shield®的概念改良自舊有的三層式穿法，Power Shield®將保暖層與最外面的防水透氣層合而為一，Power Shield®有著極度耐磨的表面，長時間摩擦後仍保持外形和功能，並同時擁有外層耐磨、防風、潑水，及中層的保暖、彈性、透氣的功能。Power Shield®就是設計來取代傳統的刷毛衣( fleece )或是外套，戶外活動中不必再穿的像米其林，只要一件Power Shield®外套就能搞定。
@@ -236,9 +242,14 @@ Power Shield®所有的布料都經過Durable Water Repellent (DWR)處理，具�
 ## PrimaLoft
 
 
+![](./images/primaloft.gif)
+
 PrimaLoft 原本是為了美國陸軍簽約而開發，為了取代當吸水時就失去保暖效果的羽絨。它獨特的結構取得了專利，生產線擴及戶外愛用者。自此，Primaloft One, Primaloft Sport及Primaloft Footwear 因為其柔軟、舒適及即使潮濕都能保持溫暖的特性，變成戶外專業者在各種天氣中各項保暖層的選擇，廣泛的運用在衣物、手套、睡帶等產品。
 
-Primalof
+
+
+![](./images/primaloft_sport.jpg)
+
 
 它的設計概念來自於大自然中最保暖的"羽絨"。PrimaLoft模仿羽絨的結構，利用粗中空纖維為骨幹，並將細中空纖維合成纏繞在粗骨幹上面，形成如羽絨般的樹狀結構。讓PrimaLoftR在構造上得以和羽絨非常的近似。
 
@@ -249,5 +260,7 @@ PrimaLoft因為模仿羽絨的物理及保暖特性，而有著超輕、抗風�
 
 
 ## Vibram
+
+![](./images/vibram.gif)
 
 Vibram®具有全世界最佳的抓地性能及抗磨損力。 Vibram®特別配方之膠底能穩固地抓穩任何地形，耐磨、耐用，並成為登山鞋之標準鞋底，而Vibram®那黃色八角形標誌，亦成為優秀鞋底之標誌。
