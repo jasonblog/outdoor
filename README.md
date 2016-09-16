@@ -34,9 +34,20 @@ http://haolite.blogspot.tw/
 http://knoxyang.blogspot.tw/
 
 ---
+- 比價網站
+
+http://www.gearbuyer.com/site/index.html
+
+http://www.trailspace.com/
+
+http://www.thefind.com/
+
+---
 
 Moosejaw        滿$49免境內運費
+
 http://www.moosejaw.com
+
 Patagonia        滿$75免境內運費
 
 http://www.patagonia.com/us/home
