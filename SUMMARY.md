@@ -7,4 +7,5 @@
    * [Arc'Teryx 始祖鳥外套型號整理](arcteryx_shi_zu_niao_wai_tao_xing_hao_zheng_li.md)
    * [機能材質說明](ji_neng_cai_zhi_shuo_ming.md)
 * [裝備分享](equipment/zhuang_bei_fen_xiang.md)
+   * blackbrid
 
