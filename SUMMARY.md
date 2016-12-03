@@ -9,5 +9,5 @@
 * [裝備分享](equipment/zhuang_bei_fen_xiang.md)
    * [blackbrid](equipment/blackbrid.md)
    * [八大秀行程裝備分享](equipment/ba_da_xiu_xing_cheng_zhuang_bei_fen_xiang.md)
-   * 阿拉斯加看極光窮人裝備分享
+   * [阿拉斯加看極光窮人裝備分享](equipment/a_la_si_jia_kan_ji_guang_qiong_ren_zhuang_bei_fen_.md)
 
