@@ -8,5 +8,5 @@
    * [機能材質說明](ji_neng_cai_zhi_shuo_ming.md)
 * [裝備分享](equipment/zhuang_bei_fen_xiang.md)
    * [blackbrid](equipment/blackbrid.md)
-   * 八大秀行程裝備分享
+   * [八大秀行程裝備分享](equipment/ba_da_xiu_xing_cheng_zhuang_bei_fen_xiang.md)
 
