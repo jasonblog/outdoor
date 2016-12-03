@@ -26,6 +26,8 @@ http://www.basegear.com/
 
 http://www.6pm.com/
 
+https://www.eastdane.com/
+
 ---
 - 登山者豪哥
 http://haolite.blogspot.tw/
