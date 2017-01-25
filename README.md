@@ -28,6 +28,8 @@ http://www.6pm.com/
 
 https://www.eastdane.com/
 
+http://www.truvana.com/
+
 ---
 - 登山者豪哥
 http://haolite.blogspot.tw/
