@@ -32,6 +32,8 @@ http://www.truvana.com/
 
 https://www.luisaviaroma.com/
 
+https://www.luisaviaroma.com
+
 ---
 - 登山者豪哥
 http://haolite.blogspot.tw/
